@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0FdpcMxO6l9msLZsHSvObk9G3j2U/KqTIUtfiEYNz+U=",
+  "Source": "Redis.Basket",
+  "BasePath": "_content/Redis.Basket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
